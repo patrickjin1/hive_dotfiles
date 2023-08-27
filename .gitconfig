@@ -1,0 +1,2 @@
+[core]
+	sshcommand = ssh -i ~/.ssh/inst-eecs-github
