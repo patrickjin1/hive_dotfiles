@@ -1,2 +1,5 @@
 [core]
 	sshcommand = ssh -i ~/.ssh/inst-eecs-github
+[user]
+	name = Patrick Jin
+	email = pjin@berkeley.edu
