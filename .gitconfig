@@ -1,5 +1,6 @@
 [core]
 	sshcommand = ssh -i ~/.ssh/inst-eecs-github
+	editor = vim
 [user]
 	name = Patrick Jin
 	email = pjin@berkeley.edu
