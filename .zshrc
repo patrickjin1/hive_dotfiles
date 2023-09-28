@@ -114,9 +114,7 @@ source $ZSH/oh-my-zsh.sh
 export LC_ALL=en_IN.UTF-8
 export LANG=en_IN.UTF-8
 
-alias gitst="git status"
-alias gitd="git diff"
-alias gitaa="git add --all"
-alias gitc="git commit"
+alias grep="grep --color"
+alias g="git"
 
 export PATH=~/.local/bin:$PATH

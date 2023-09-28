@@ -4,3 +4,15 @@
 [user]
 	name = Patrick Jin
 	email = pjin@berkeley.edu
+
+[alias]
+	a = add
+	aa = add --all
+	c = commit
+	st = status
+	co = checkout
+	cob = checkout -b
+	br = branch
+	l = log --oneline --decorate --color --graph
+[init]
+	defaultBranch = main
