@@ -117,3 +117,5 @@ alias gitst="git status"
 alias gitd="git diff"
 alias gitaa="git add --all"
 alias gitc="git commit"
+
+export PATH=~/.local/bin:$PATH
