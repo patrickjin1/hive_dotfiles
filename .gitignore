@@ -5,5 +5,7 @@
 !.bashrc
 !.p10k.zsh
 !.gitignore
+!.local.tar.gz
+
 !.oh-my-zsh
 !.oh-my-zsh-custom
