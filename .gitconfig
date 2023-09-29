@@ -1,6 +1,7 @@
 [core]
 	sshcommand = ssh -i ~/.ssh/inst-eecs-github
 	editor = vim
+
 [user]
 	name = Patrick Jin
 	email = pjin@berkeley.edu
@@ -14,5 +15,7 @@
 	cob = checkout -b
 	br = branch
 	l = log --oneline --decorate --color --graph
+	d = diff
+
 [init]
 	defaultBranch = main
