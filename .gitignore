@@ -5,6 +5,7 @@
 !.bashrc
 !.p10k.zsh
 !.gitignore
+!.gdbinit
 !.local.tar.gz
 
 !.oh-my-zsh
