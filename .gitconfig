@@ -10,6 +10,7 @@
 	a = add
 	aa = add --all
 	c = commit
+	cm = commit -m
 	cam = commit --all -m
 	cmd = commid --amend
 	st = status
@@ -17,6 +18,8 @@
 	cob = checkout -b
 	br = branch
 	l = log --oneline --decorate --color --graph
+	ll = log --pretty=format:"%C(yellow)%h\\ %ad%Cred%d\\ %Creset%s%Cblue\\ [%an]" --decorate --date=short --graph
+	lfr = log --pretty=fuller
 	d = diff
 	dh = diff HEAD
 
