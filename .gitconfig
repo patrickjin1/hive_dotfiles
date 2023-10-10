@@ -10,12 +10,15 @@
 	a = add
 	aa = add --all
 	c = commit
+	cam = commit --all -m
+	cmd = commid --amend
 	st = status
 	co = checkout
 	cob = checkout -b
 	br = branch
 	l = log --oneline --decorate --color --graph
 	d = diff
+	dh = diff HEAD
 
 [init]
 	defaultBranch = main
