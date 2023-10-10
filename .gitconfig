@@ -22,6 +22,8 @@
 	lfr = log --pretty=fuller
 	d = diff
 	dh = diff HEAD
+	ds = diff --stat
+	dc = diff --cached
 
 [init]
 	defaultBranch = main
