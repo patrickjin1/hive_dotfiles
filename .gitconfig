@@ -24,6 +24,7 @@
 	dh = diff HEAD
 	ds = diff --stat
 	dc = diff --cached
+	la = config --get-regexp ^alias
 
 [init]
 	defaultBranch = main
