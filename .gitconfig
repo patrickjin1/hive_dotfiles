@@ -25,6 +25,7 @@
 	ds = diff --stat
 	dc = diff --cached
 	la = config --get-regexp ^alias
+	sub = submodule
 
 [init]
 	defaultBranch = main
