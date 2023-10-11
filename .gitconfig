@@ -12,7 +12,7 @@
 	c = commit
 	cm = commit -m
 	cam = commit --all -m
-	cmd = commid --amend
+	cmd = commit --amend
 	st = status
 	co = checkout
 	cob = checkout -b
